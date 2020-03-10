@@ -1,1 +1,3 @@
-/book-downloader/book/
+book/
+.idea
+node_modules/

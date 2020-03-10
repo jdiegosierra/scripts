@@ -1,0 +1,40 @@
+{
+"data": [
+  {
+    "name": "Lb-esp-prod-pub",
+    "value": "ARRhAV0BBAqpGREQZ8XADw$$",
+    "domain": "mcp.soprahronline.com",
+    "path": "/",
+    "expires": 1614779081,
+    "size": 39,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "com.hraccess.portal.connection.id",
+    "value": "Z3LEKidrkQ2jVxUoR97NxNItnjS0zZUpFe4z9AKyUSBbsuavx9GmCUfMNux0mU5w",
+    "domain": "mcp.soprahronline.com",
+    "path": "/",
+    "expires": 1614779081,
+    "size": 97,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "virtualSessionId",
+    "value": "Z3LEKidrkQ2jVxUoR97NxNItnjS0zZUpFe4z9AKyUSBbsuavx9GmCUfMNux0mU5w",
+    "domain": "mcp.soprahronline.com",
+    "path": "/",
+    "expires": 1614779081,
+    "size": 80,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameSite": "None"
+  }
+]
+}
